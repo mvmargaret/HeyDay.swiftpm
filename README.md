@@ -3,5 +3,5 @@ This is an application showcasing the history of overcoming gender discriminatio
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/mvmargaret/HeyDay.swiftpm/blob/main/Screenshot%201%20Large.jpeg?raw=true" width="300" />
+  <img src="https://github.com/mvmargaret/HeyDay.swiftpm/blob/main/Screenshot%201%20Large.jpeg?raw=true" width="500" />
 </p>
